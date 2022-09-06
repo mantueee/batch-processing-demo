@@ -11,5 +11,4 @@ public class BatchProcessingDemoApplication {
 		SpringApplication.run(BatchProcessingDemoApplication.class, args);
 	}
 	
-
 }
